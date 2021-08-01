@@ -1,2 +1,68 @@
 
-{"linkCheck":"https://services.b34.win/app/fetch","linkResource":"https://files.b34.win/u1/"}
+{
+    "linkCheck":"https://services.b34.win/app/fetch",
+    "linkResource":"https://files.b34.win/u1/",
+    "urlApiPortal":"https://api.b34.win/",
+    "urlEvent":"https://event.b34.win/api/",
+    "ServerGame":{
+        "Nuilua": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Galaxy": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Maya": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Vuongquoc": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Chienbinh": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Bacay": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Baucua": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Taixiu": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Larva": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Samsolo": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Ruby": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Tlmnsolo": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Xocdia": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Caothap": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Banca": {
+            "urlApi": "https://pharaoh.b34.win/"
+        }
+    }
+}
