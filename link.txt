@@ -2,7 +2,7 @@
 {
     "linkCheck":"https://services.b34.win/app/fetch",
     "linkResource":"https://files.b34.win/u1/",
-    "urlApiPortal":"https://adpi.b34.win/",
+    "urlApiPortal":"https://dsasadas.b34.win/",
     "urlEvent":"https://event.b34.win/api/",
     "ServerGame":{
         "Nuilua": {
