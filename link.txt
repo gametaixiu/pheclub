@@ -6,64 +6,64 @@
     "urlEvent":"https://event.b34.win/",
     "ServerGame":{
         "Nuilua": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://nuilua.b34.win/",
+            "urlServer": "https://nuilua.b34.win/signalr/negotiate"
         },
         "Galaxy": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://galaxy.b34.win/",
+            "urlServer": "https://galaxy.b34.win/signalr/negotiate"
         },
         "Maya": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://maya.b34.win/",
+            "urlServer": "https://maya.b34.win/signalr/negotiate"
         },
         "Vuongquoc": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://vuongquoc.b34.win/",
+            "urlServer": "https://vuongquoc.b34.win/signalr/negotiate"
         },
         "Chienbinh": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://chienbinhbang.b34.win/",
+            "urlServer": "https://chienbinhbang.b34.win/signalr/negotiate"
         },
         "Bacay": {
             "urlApi": "https://pharaoh.b34.win/",
             "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
         },
         "Baucua": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://baucua.b34.win/",
+            "urlServer": "https://baucua.b34.win/signalr/negotiate"
         },
         "Taixiu": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://taxi.b34.win/",
+            "urlServer": "https://taxi.b34.win/signalr/negotiate"
         },
         "Larva": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://larva.b34.win/",
+            "urlServer": "https://larva.b34.win/signalr/negotiate"
         },
         "Samsolo": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://samlocsolo.b34.win/",
+            "urlServer": "https://samlocsolo.b34.win/signalr/negotiate"
         },
         "Ruby": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://kimcuong.b34.win/",
+            "urlServer": "https://kimcuong.b34.win/signalr/negotiate"
         },
         "Tlmnsolo": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://tlmnsolo.b34.win/",
+            "urlServer": "https://tlmnsolo.b34.win/signalr/negotiate"
         },
         "Xocdia": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://xocdia.b34.win/",
+            "urlServer": "https://xocdia.b34.win/signalr/negotiate"
         },
         "Caothap": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://caothap.b34.win/",
+            "urlServer": "https://caothap.b34.win/signalr/negotiate"
         },
         "Minipoker": {
-            "urlApi": "https://pharaoh.b34.win/",
-            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+            "urlApi": "https://minipoker.b34.win/",
+            "urlServer": "https://minipoker.b34.win/signalr/negotiate"
         },
         "Banca":  "banca.b34.win"
     }
