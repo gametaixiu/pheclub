@@ -3,7 +3,7 @@
     "linkCheck":"https://services.b34.win/app/fetch",
     "linkResource":"https://files.b34.win/u1/",
     "urlApiPortal":"https://api.b34.win/",
-    "urlEvent":"https://event.b34.win/api/",
+    "urlEvent":"https://event.b34.win/",
     "ServerGame":{
         "Nuilua": {
             "urlApi": "https://pharaoh.b34.win/",
@@ -61,6 +61,10 @@
             "urlApi": "https://pharaoh.b34.win/",
             "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
         },
-        "Banca":  "https://pharaoh.b34.win/"
+        "Minipoker": {
+            "urlApi": "https://pharaoh.b34.win/",
+            "urlServer": "https://pharaoh.b34.win/signalr/negotiate"
+        },
+        "Banca":  "banca.b34.win"
     }
 }
